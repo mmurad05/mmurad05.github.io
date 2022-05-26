@@ -231,7 +231,6 @@ a:hover {
 }
 ion-icon {
   font-size: 60px;
-  align-content: baseline;
 }
 /*------/ Ul resect /------*/
 .ul-resect, .widget-tags ul, .widget-sidebar .list-sidebar, .box-comments .list-comments, .blog-wrapper .post-meta ul, .list-ico, .socials ul {
